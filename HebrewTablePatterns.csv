@@ -1,0 +1,14 @@
+משקל או בניין,description,is_binyan,of_binyan
+paal,простые,1,
+piel,активные,1,
+hiphil,каузативы,1,
+niphal,пассивные,1,paal
+pual,пассивные,1,piel
+hitpael,возвратные,1,
+huphal,пассивные,1,hiphil
+ktila,отгл сущ.,0,paal
+kitul,отгл. сущ.,0,piel
+haktala,отгл. сущ.,0,hiphil
+hitkatlut,отгл. сущ.,0,hitpael
+katul,страд. прич.,0,paal
+mekutal,страд. прич.,0,piel
