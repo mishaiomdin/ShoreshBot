@@ -12,8 +12,6 @@ csv_file_roots = "HebrewTableRoots.csv"
 csv_file_patterns = "HebrewTablePatterns.csv"
 about_text_file = 'AboutThisBot.txt'
 
-admins = [839506170] #Misha Iomdin
-
 #Setting up the bot
 bot = telebot.TeleBot("your_token_here")
 
